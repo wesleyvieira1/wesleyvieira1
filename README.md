@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wesleyvieira1
+- 📚 I’m currently learning HTML and CSS
+- 👨‍💻 I have experience with SQL and Python3
+- 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br or @wesleyhsv (Instagram)
