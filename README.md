@@ -17,3 +17,10 @@
   <a href="https://instagram.com/wesleyhsv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/wesleyvieira1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+   ![Snake animation](https://github.com/wesleyvieira1/wesleyvieira1/blob/output/github-contribution-grid-snake.svg)
+</div>
+
