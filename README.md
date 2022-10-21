@@ -17,3 +17,4 @@
   <a href="https://instagram.com/wesleyhsv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=wesleyvieira1&theme=highcontrast&show_icons=true&count_private=true)
+<img scr="https://github-readme-stats.vercel.app/api?username=wesleyvieira1&theme=highcontrast&show_icons=true&count_private=true">
