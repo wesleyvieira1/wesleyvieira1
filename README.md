@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on school projects
+- 🔭 I’m currently working on school projects and my TCC
 - 🌱 I’m currently learning HTML, CSS and JS
 - 👨‍💻 I have experience with Python3 and PostgreeSQL
 - 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
