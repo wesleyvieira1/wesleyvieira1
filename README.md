@@ -16,3 +16,6 @@
 <div>
   <a href="https://instagram.com/wesleyhsv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true"></a>
+</div>
