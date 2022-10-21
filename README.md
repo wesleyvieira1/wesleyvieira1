@@ -16,8 +16,10 @@
 <div>
   <a href="https://instagram.com/wesleyhsv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<div align-"center">
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvieira1)
+  
+<div style="text-align: center">
+  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvieira1">
 </div>
+
+
 
