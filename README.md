@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on school projects and my TCC
 - 🌱 I’m currently learning HTML, CSS, JS and Django
-- 👨‍💻 I have experience with Python3 and PostgreeSQL
+- 👨‍💻 I have experience with Python3, PostgreeSQL, HTML and CSS
 - 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
 
 <div style="display: inline_block"><br>
