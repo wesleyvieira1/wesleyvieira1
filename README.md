@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on school projects and my TCC
-- 🌱 I’m currently learning HTML, CSS, JS and Django
+- 🔭 I’m currently working on independent projects
+- 🌱 I’m currently learning CustomTktinter and JS
 - 👨‍💻 I have experience with Python3, PostgreeSQL, HTML and CSS
 - 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
 
@@ -10,6 +10,8 @@
   <img align="center" alt="wes-Java" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="wes-Postgresql" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="wes-figma" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="wes-django" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="wes-bootstrap" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   
           
 </div>
