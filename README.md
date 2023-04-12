@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on independent projects
+- 👨‍💻 I'm currently studying at microsoft and rockeseat bootcamp
 - 🌱 I’m currently learning CustomTkinter and JS
 - 👨‍💻 I have experience with Python3, PostgreeSQL, HTML and CSS
 - 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
