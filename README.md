@@ -1,5 +1,5 @@
 
-## Hello, I'm Wesley Vieira
+## Wesley Vieira
 
 
 - 🔭 I’m currently working on independent projects
