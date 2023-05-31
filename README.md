@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on independent projects
-- 👨‍💻 I'm currently studying at rockeseat nlw
-- 🌱 I’m currently learning CustomTkinter and JS
+- 👨‍💻 I'm currently studying at UFPB
+- 🌱 I’m currently learning Reactjs and Nextjs
 - 👨‍💻 I have experience with Python3, PostgreeSQL, HTML and CSS
 - 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
 
