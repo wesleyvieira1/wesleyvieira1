@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently studying at UFPB
 - 🌱 I’m currently learning Reactjs and Nextjs
 - 👨‍💻 I have experience with Python3, PostgreeSQL, HTML and CSS
-- 📫 How to reach me: wesley.henrique@academico.ifpb.edu.br
+- 📫 How to reach me: wesleyhvieiras@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="wes-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
