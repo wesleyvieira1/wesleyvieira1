@@ -2,9 +2,9 @@
 ## Hi, I'm Wesley Vieira
 
 
-- 🔭 I’m currently working on independent projects
+- 🔭 I’m currently working on college projects
 - 👨‍💻 I'm currently studying at UFPB
-- 🌱 I’m currently learning Reactjs and Nextjs
+- 🌱 I’m currently learning Pandas
 - 👨‍💻 I have experience with Python3, PostgreeSQL, Django, HTML and CSS
 - 📫 How to reach me: wesleyhvieiras@gmail.com
 
