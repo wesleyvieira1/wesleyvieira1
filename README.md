@@ -6,7 +6,7 @@
 - 👨‍💻 I'm currently studying at UFPB
 - 🌱 I’m currently learning Pandas
 - 👨‍💻 I have experience with Python3, PostgreeSQL, Django, HTML and CSS
-- 📫 How to reach me: wesleyhvieiras@gmail.com
+- 📫 How to reach me: wesley.vieira@academico.ufpb.br
 
 <div style="display: inline_block"><br>
   <img align="center" alt="wes-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
