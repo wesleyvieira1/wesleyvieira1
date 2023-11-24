@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on college projects
 - 👨‍💻 I'm currently studying at UFPB
-- 🌱 I’m currently learning Pandas
+- 🌱 I’m currently learning Pandas and C
 - 👨‍💻 I have experience with Python3, PostgreeSQL, Django, HTML and CSS
 - 📫 How to reach me: wesley.vieira@academico.ufpb.br
 
