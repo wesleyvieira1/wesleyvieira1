@@ -28,17 +28,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleyvieira1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-<div style="text-align: center;">
-    <br>
-    <p><b>Visitors Count</b></p>
-    <p>
-        <img src="https://profile-counter.glitch.me/wesleyvieira1/count.svg" alt="Visitors Count" />
-    </p>
-    <br>
-</div>
-
-##
-
 <div>
   <a href="https://instagram.com/wesleyhsv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesleyvieira1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
