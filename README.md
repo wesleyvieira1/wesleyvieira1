@@ -25,12 +25,7 @@
 </div>
 
 ##
-
-<div>
-  <a href="https://github.com/wesleyvieira1">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyvieira1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleyvieira1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
