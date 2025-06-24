@@ -1,9 +1,11 @@
-# Wesley Vieira
+# Wesley Vieira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Vieira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyvieira1/)]([https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/wesleyvieira1/)) 
-[![Gmail Badge](https://img.shields.io/badge/-wesley.vieira@academico.ufpb.br-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.vieira@academico.ufpb.br)](mailto:wesley.vieira@academico.ufpb.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyvieira1/)
+[![Gmail](https://img.shields.io/badge/Gmail-wesley.vieira@academico.ufpb.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wesley.vieira@academico.ufpb.br)
+[![Instagram](https://img.shields.io/badge/Instagram-@wesleyhsv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesleyhsv)
 
-Enthusiast of the best data science technologies
+
+Enthusiast of the best data science technologies!
 
 I am currently a student at the Federal University of Paraíba, studying for a bachelor's degree in Data Science and Artificial Intelligence. I have worked with Python3, Pandas, PostgreSQL, Django, Nextjs.
 
@@ -28,7 +30,6 @@ I am currently a student at the Federal University of Paraíba, studying for a b
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wesleyvieira1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-
 
 
 
