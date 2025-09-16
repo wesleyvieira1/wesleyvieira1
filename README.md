@@ -23,6 +23,8 @@ I am currently a student at the Federal University of Paraíba, studying for a b
   <img align="center" alt="wes-react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="wes-nextjs" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img  align="center" alt="wes-tailwind" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img  align="center" alt="wes-tailwind" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img  align="center" alt="wes-tailwind" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
           
 </div>
 
